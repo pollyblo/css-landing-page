@@ -1,1 +1,1 @@
-# css-landing-page
+First website, doing it alongside The Odin Project.
